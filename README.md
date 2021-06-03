@@ -10,7 +10,7 @@
 
 ## ⚡️ A Few Facts
 - I’m currently learning Golang <img src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974" width="30"> 
-- Love everyting about Kubernetes! <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width="30"> 
+- Love everything about Kubernetes! <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width="30"> 
 - Ask me about Pipelines, Linux and CI/CD! <img src="https://emojis.slackmojis.com/emojis/images/1551101669/5413/linux.png?1551101669" width="30">
 
 
