@@ -1,6 +1,6 @@
 <h1> Hi! I am <a href="https://github.com/FlorisFeddema">Floris</a>, a developer from The Netherlands!</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
+![Profile Views](https://komarev.com/ghpvc/?username=FlorisFeddema)
 
 ## 📬 Find me at
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FlorisFeddema)
