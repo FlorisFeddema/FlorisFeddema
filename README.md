@@ -1,23 +1,18 @@
-<h1> Hi! I am <a href="https://github.com/FlorisFeddema">Floris</a>, a developer from The Netherlands!</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Floris Feddema======================================================================================================================================DevOps and CICD expert----------------------* 🌍  I'm based in Eindhoven, The Netherlands* ✉️  You can contact me at [admin@feddema.dev](mailto:admin@feddema.dev)* 🧠  I'm learning Golang* ⚡  I have the Certified Kubernetes Administrator (CKA) and Certified Kubernetes Application Developer (CKAD) certifications
 
-![Profile Views](https://komarev.com/ghpvc/?username=FlorisFeddema)
+<a href="https://www.github.com/FlorisFeddema" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/FlorisFeddema?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
-## 📬 Find me at
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FlorisFeddema)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/floris-feddema-265870152/)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:floris1996@hotmail.com)
+### Skills
 
+<p align="left"><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/FlorisFeddema" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/florisfeddema" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-## ⚡️ A Few Facts
-- I’m currently learning Golang <img src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974" width="30"> 
-- Love everything about Kubernetes! <img src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width="30"> 
-- Ask me about Pipelines, Linux and CI/CD! <img src="https://emojis.slackmojis.com/emojis/images/1551101669/5413/linux.png?1551101669" width="30">
+### Badges
 
+<b>My GitHub Stats</b>
 
-## 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FlorisFeddema&show_icons=true&line_height=21" alt="Defcon27's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlorisFeddema&theme=default&line_height=27&layout=compact" />
-</p>
+<a href="http://www.github.com/FlorisFeddema"><img src="https://github-readme-stats.vercel.app/api?username=FlorisFeddema&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="FlorisFeddema's GitHub stats" /></a>
 
+<a href="http://www.github.com/FlorisFeddema"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FlorisFeddema&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/FlorisFeddema"><img src="https://activity-graph.herokuapp.com/graph?username=FlorisFeddema&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
