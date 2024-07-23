@@ -18,6 +18,10 @@ Kubernetes and Platform Engineer
 
 ### Badges
 <!--START_SECTION:badges-->
+[![eBPF Getting Started](https://images.credly.com/size/80x80/images/3776203d-2d28-4237-947b-9565e294b4d3/image.png)](http://www.credly.com/badges/931e669b-b14d-484f-a819-9c95a713657f "eBPF Getting Started")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/b2744c47-881b-441b-93dc-7da7dbd131ea "CKAD: Certified Kubernetes Application Developer")
+[![LFS258: Kubernetes Fundamentals](https://images.credly.com/size/80x80/images/6a77753d-220b-47ee-af39-789b433270a1/image.png)](http://www.credly.com/badges/194a4e7f-9529-4d7c-8339-a157639499ea "LFS258: Kubernetes Fundamentals")
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/998650ca-9207-4252-9529-9487309ad4db "CKA: Certified Kubernetes Administrator")
 <!--END_SECTION:badges-->
 
 ### My GitHub Stats
