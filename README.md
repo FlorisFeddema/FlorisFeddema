@@ -18,6 +18,7 @@ Kubernetes and Platform Engineer
 
 ### Badges
 <!--START_SECTION:badges-->
+[![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](http://www.credly.com/badges/cb787894-88d9-4275-8ead-9f5da9ff573f "KCSA: Kubernetes and Cloud Native Security Associate")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/c419e432-58b8-4012-a0ff-66495e50b4a3 "KCNA: Kubernetes and Cloud Native Associate")
 [![eBPF Getting Started](https://images.credly.com/size/80x80/images/3776203d-2d28-4237-947b-9565e294b4d3/image.png)](http://www.credly.com/badges/931e669b-b14d-484f-a819-9c95a713657f "eBPF Getting Started")
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/80x80/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/b2744c47-881b-441b-93dc-7da7dbd131ea "CKAD: Certified Kubernetes Application Developer")
